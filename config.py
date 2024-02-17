@@ -1,12 +1,12 @@
 class Config:
-    API_ID = 123456789  # My.telegram.org
-    API_HASH = "123456asdasdasd123"  # My.telegram.org
-    BOT_TOKEN = "12345678:abcdsasdasdasd"  # @Botfatherden aldığınız token
-    OWNER = 123456789  # @Sahipin id`si
-    LOG_ADMINS = -100xxxxx  # admin grupu
-    ETIRAF_CHANNEL = -100xxxxx  # İtiraflarin gittigi kanal
-    LOG_SILINMIS = -100xxxxx  # Sİlinmiş itirafların gittiği kanal
-    LOG_DATABASE = -100xxxxx  # bota startp yapanlar ve.s.
-    BOT_USERNAME = "KiberEtirafBot"  # Botun kullanıcı ismi
-    ITIRAF_CHANNEL = "KiberEtiraf"  # Kanalınızın kullanıcı adı
-    ITIRAF_UPDATE_CHANNEL = "KiberWeb"  # Güncelleme kanalınız
+    API_ID = 21119132  # My.telegram.org
+    API_HASH = "c0a90d0ba66e6bdea356894a55f4856e"  # My.telegram.org
+    BOT_TOKEN = "6704245576:AAGqYQrMMuH2yt2sHJ9Zhk7q2wtNrDA_Eow"  # @Botfatherden aldığınız token
+    OWNER = 6532412571  # @Sahipin id`si
+    LOG_ADMINS = -1001654938309  # admin grupu
+    ETIRAF_CHANNEL = -1001813390013  # İtiraflarin gittigi kanal
+    LOG_SILINMIS = -1001880732382  # Sİlinmiş itirafların gittiği kanal
+    LOG_DATABASE = -1001880732382  # bota startp yapanlar ve.s.
+    BOT_USERNAME = "kazanitirafbot"  # Botun kullanıcı ismi
+    ITIRAF_CHANNEL = "mamaklibirininruhu"  # Kanalınızın kullanıcı adı
+    ITIRAF_UPDATE_CHANNEL = "yoodelidegil"  # Güncelleme kanalınız
