@@ -14,7 +14,7 @@ from plugins.dil import LAN
 async def start(_, msg: Message):
     await _.send_animation(
         chat_id=msg.chat.id,
-        animation=f"https://telegra.ph/unalkelestayyiperdoganaksenerbahceliimamaogluyavas-02-18",
+        animation=f"https://media.tenor.com/kUkucSOpA_EAAAAM/yasli-kadin-gobek-atmak.gif",
         caption=LAN.BOT_START.format(msg.from_user.mention),
         reply_markup=InlineKeyboardMarkup(
             [
@@ -47,7 +47,7 @@ async def start(_, msg: Message):
 async def cb_info(bot: Client, query: CallbackQuery):
     await query.edit_message_media(
         media=InputMediaAnimation(
-            f"https://telegra.ph/unalkelestayyiperdoganaksenerbahceliimamogluyavasozel-02-18"
+            f"https://media.tenor.com/PLLkRgSI9MgAAAAM/thomas-shelby-smoking.gif"
         ),
         reply_markup=InlineKeyboardMarkup(
             [
