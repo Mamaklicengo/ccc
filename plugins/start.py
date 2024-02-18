@@ -14,7 +14,7 @@ from plugins.dil import LAN
 async def start(_, msg: Message):
     await _.send_animation(
         chat_id=msg.chat.id,
-        animation=f"https://te.legra.ph/file/2ec7302acc70ea68d7ad3.gif",
+        animation=f"https://telegra.ph/unalkelestayyiperdoganaksenerbahceliimamaogluyavas-02-18.gif",
         caption=LAN.BOT_START.format(msg.from_user.mention),
         reply_markup=InlineKeyboardMarkup(
             [
