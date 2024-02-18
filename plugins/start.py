@@ -47,7 +47,7 @@ async def start(_, msg: Message):
 async def cb_info(bot: Client, query: CallbackQuery):
     await query.edit_message_media(
         media=InputMediaAnimation(
-            f"https://te.legra.ph/file/796e259cd8d37c4f85d32.gif"
+            f"https://telegra.ph/unalkelestayyiperdoganaksenerbahceliimamogluyavasozel-02-18"
         ),
         reply_markup=InlineKeyboardMarkup(
             [
